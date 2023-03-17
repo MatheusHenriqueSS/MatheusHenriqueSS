@@ -1,3 +1,7 @@
+## Hello There!:wave:
+- Computer Science Student at UNICAMP
+- Coding bugs in https://melhorplano.net/
+
 ## Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-hss/)
 
